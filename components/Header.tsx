@@ -5,7 +5,7 @@ export default function Header() {
     <>
       <div className="topBar">
         <div>
-          <span>📞 +91 YOUR NUMBER</span>
+          <span>✈️ info_rixoraa </span>
           <span>✉️ info@rixoraa.com</span>
         </div>
 
