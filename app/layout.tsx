@@ -74,10 +74,13 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: "/Rixoraalogo.png",
-    shortcut: "/Rixoraalogo.png",
-    apple: "/Rixoraalogo.png",
-  },
+  icon: [
+    { url: "/favicon.ico" },
+    { url: "/favicon.png", type: "image/png" },
+  ],
+  shortcut: "/favicon.ico",
+  apple: "/favicon.png",
+},
 
   robots: {
     index: true,
